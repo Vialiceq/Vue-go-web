@@ -1,4 +1,4 @@
-# app001
+# DB and app
 
 ## Environment setup
 
@@ -46,7 +46,7 @@ Navigate to the `webapp` folder, install dependencies,
 and start the front end development server by running:
 
 ```sh
-cd webapp
+cd admin
 npm install
 npm start
 ```
@@ -60,3 +60,5 @@ docker-compose up
 ```
 This will build the application and start it together with
 its database. Access the application on http://localhost:8080.
+
+# Dockerfile for DB can be used and for the whole site still developing~
