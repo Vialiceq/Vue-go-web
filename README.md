@@ -1,6 +1,6 @@
 # vue-go-webapp
 
-##FrontEen Vue
+## FrontEen Vue
 
-##BackEnd Golang
+## BackEnd Golang
 
