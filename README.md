@@ -2,7 +2,7 @@
 
 ## FrontEen: Vue
 ### admin 
-'''cd admin'''
+Navigate to admin
 ### web(still developing)
 ## BackEnd: Golang
 
